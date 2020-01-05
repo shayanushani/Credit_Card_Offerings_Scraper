@@ -4,6 +4,18 @@ READ THE TERMS OF AGREEMENT OF EACH SITE BEFORE RUNNING ANY SCRIPT
 
 PURELY MEANT FOR ACADEMIC REASONS
 
+Scrapes the following credit card products for:
+-Citi
+-Discover
+-Capital One
+-BofA
+-Barclays
+-Chase
+-Wells Fargo
+-US Bank
+-American Express
+-
+
 # directions
 
 document I used... 
